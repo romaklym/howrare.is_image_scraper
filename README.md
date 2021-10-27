@@ -1,3 +1,5 @@
 # Image Webscraper for HowRare.is
 
-![Snatcher](https://github.com/romaklym/howrare.is_image_scraper/123_SolSnatcher#2907.png)
+<p align="center">
+<img src="https://github.com/romaklym/howrare.is_image_scraper/blob/master/123_SolSnatcher%232907.png" alt="SolSnatcher" height="100" style="vertical-align:top; margin:4px">
+</p>
